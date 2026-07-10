@@ -442,6 +442,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN): ChatGPT DAN, Jailbreaks prompt
 - 🇨🇳 [Awesome ChatGPT Prompts (zh)](https://github.com/PlexPt/awesome-chatgpt-prompts-zh): ChatGPT Chinese Tuning Guide
 - [ChatGPT Python Applications](https://github.com/xiaowuc2/ChatGPT-Python-Applications) : Tutorials of ChatGPT using Python(with video) with third-party extensions, integrations with other tools, ports for different platforms, etc.
+- [AI Router OpenAI-Compatible Examples](https://github.com/airouter-dev/ai-router-openai-compatible-examples): Open-source setup examples for cURL, Python, Node.js, Cursor, Continue, LiteLLM, Open WebUI, BYOK smoke tests, and localized landing pages.
 - [LLM Introduction: Learn Language Models](https://gist.github.com/rain-1/eebd5e5eb2784feecf450324e3341c8d) : A curated list of useful focused intro resources for learning about LLMs.
 - [Connect ChatGPT to the Internet](https://github.com/mahseema/connect-chatgpt-to-internet): A complete tutorial to help connect free version of ChatGPT to the internet
 
