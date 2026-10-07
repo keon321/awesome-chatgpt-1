@@ -17,7 +17,7 @@ Table of Contents:
 - [UIs](#uis) 
     - [Desktop applications](#desktop-applications) (23)
 
-    - [Browser extensions](#browser-extensions) (22)
+    - [Browser extensions](#browser-extensions) (23)
 
     - [Web applications](#web-applications) (32)
 
@@ -180,6 +180,7 @@ Table of Contents:
 - [AI-Prompt-Genius/AI-Prompt-Genius](https://github.com/AI-Prompt-Genius/AI-Prompt-Genius) (★1221 JavaScript) - AI Prompt Genius is a Chrome extension and web app that allows users to curate and manage a custom library of AI prompts for enhanced productivity and ease of use.
 - [C-Nedelcu/talk-to-chatgpt](https://github.com/C-Nedelcu/talk-to-chatgpt) (★1951 JavaScript) - Talk-to-ChatGPT is a discontinued browser extension that enabled voice-based interaction with ChatGPT, allowing users to speak to the AI and hear spoken responses, enhancing accessibility and conversational experience.
 - [ChatGPTBox-dev/chatGPTBox](https://github.com/ChatGPTBox-dev/chatGPTBox) (★10663 JavaScript) - ChatGPT Box is a versatile browser extension that deeply integrates ChatGPT AI capabilities into multiple browsers, offering features like floating chat boxes, multi-branch conversations, and extensive site integrations for enhanced productivity and user experience.
+- [TaskOnward](https://taskonward.5188688.xyz/) - A browser extension that saves project state (decisions, progress, next steps) from a long ChatGPT conversation and resumes it in a new chat. Free public beta.
 - [TaxyAI/browser-extension](https://github.com/TaxyAI/browser-extension) (★1230 TypeScript) - Taxy AI is an open-source browser extension that uses GPT-4 to automate repetitive web browsing tasks by interpreting user instructions and interacting with webpage elements.
 - [all-in-aigc/gpts-works](https://github.com/all-in-aigc/gpts-works) (★1640 TypeScript) - GPTs Works is a third-party GPTs store project featuring a website, an index system for vector-based GPT search, and a browser extension to display GPTs alongside ChatGPT Explore.
 - [anc95/writely](https://github.com/anc95/writely) (★1295 TypeScript) - Writely is a browser extension that leverages OpenAI GPT to provide AI-powered writing assistance across any webpage, serving as a versatile alternative to Notion AI for enhanced writing productivity and quality.
